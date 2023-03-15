@@ -1,4 +1,4 @@
-Français / ![English](Readme.en.md)
+Français / [English](Readme.en.md)
 
 # Salut ! Je m'appelle Emilie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
