@@ -10,9 +10,9 @@ I'm always open to connecting you on [LinkedIn](https://www.linkedin.com/in/emil
 **Game Engines:** Unity3D, Unreal Engine<br>
 
 ## About me :3
-- 🌱 C'est la deuxième foi que je participe au Concours universitaire Ubisoft en tant que représentante d'équipe
-- 🤖 WIP : Un petit moteur de jeu
-- 😄 Pronoms: `Elle/She/Her`
+- 🌱 It's the second time that I participate in the Ubisoft Game Lab competition as a team representative
+- 🤖 WIP : A small game engine
+- 😄 Pronoms: `She/Her/Elle`
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilie-h-c/)](https://www.linkedin.com/in/emilie-h-c/)
