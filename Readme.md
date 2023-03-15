@@ -17,9 +17,8 @@ Je suis toujours ouverte à vous connecter sur [LinkedIn](https://www.linkedin.c
 - 😄 Pronoms: `Elle/She/Her`
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-@emilie-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chun-ye-5766ba18b/)](https://www.linkedin.com/in/emilie-h-c/)
-[![Website Badge](https://img.shields.io/badge/-chunye.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://main.dbym3k84goc1r.amplifyapp.com/)](https://main.dbym3k84goc1r.amplifyapp.com/)
-[![Outlook Badge](https://img.shields.io/badge/-chun.ye-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:c42ye@uwaterloo.ca)](mailto:c42ye@uwaterloo.ca)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilie-h-c/)](https://www.linkedin.com/in/emilie-h-c/)
+[![Outlook](https://img.shields.io/badge/-Courriel-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:emilie.hongjun.chen@mail.mcgill.ca)](mailto:emilie.hongjun.chen@mail.mcgill.ca)
 # 
-[![Daisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisyyedda&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyyedda&count_private=true&show_icons=truet&layout=compact&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Emilie's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliehc&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliehc&count_private=false&show_icons=true&layout=compact&theme=algolia&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
