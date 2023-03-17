@@ -1,6 +1,6 @@
 English / [Français](Readme.fr.md)
 
-# Hey ! I'm Emilie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey! I'm Emilie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a **Computer Science** student at McGill. <br>
 I'm always open to connecting you on [LinkedIn](https://www.linkedin.com/in/emilie-h-c/).
