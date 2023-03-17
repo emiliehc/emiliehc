@@ -12,7 +12,7 @@ I'm always open to connecting you on [LinkedIn](https://www.linkedin.com/in/emil
 ## About me :3
 - 🌱 It's the second time that I participate in the Ubisoft Game Lab competition as a team representative
 - 🤖 WIP : A small game engine
-- 😄 Pronoms: `She/Her/Elle`
+- 😄 Pronouns: `She/Her/Elle`
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilie-h-c/)](https://www.linkedin.com/in/emilie-h-c/)
