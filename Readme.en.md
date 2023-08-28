@@ -16,7 +16,7 @@ I'm always open to connecting you on [LinkedIn](https://www.linkedin.com/in/emil
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilie-h-c/)](https://www.linkedin.com/in/emilie-h-c/)
-[![Outlook](https://img.shields.io/badge/-Email-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:emilie.hongjun.chen@mail.mcgill.ca)](mailto:emilie.hongjun.chen@mail.mcgill.ca)
+[![Outlook](https://img.shields.io/badge/-Email-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:emilie.hongjun.chen@gmail.com)](mailto:emilie.hongjun.chen@gmail.com)
 # 
 [![Emilie's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliehc&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliehc&count_private=false&show_icons=true&layout=compact&theme=algolia&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
