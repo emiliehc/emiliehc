@@ -9,11 +9,6 @@ Je suis toujours ouverte à vous connecter sur [LinkedIn](https://www.linkedin.c
 **Langages:**  C++, C#, C, java, kotlin, ocaml, clojure, bash<br>
 **Moteurs de jeu:** Unity3D, Unreal Engine<br>
 
-## À propos de moi :3
-- 🌱 C'est la deuxième foi que je participe au Concours universitaire Ubisoft en tant que représentante d'équipe
-- 🤖 WIP : Un petit moteur de jeu
-- 😄 Pronoms: `Elle/She/Her`
-
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilie-h-c/)](https://www.linkedin.com/in/emilie-h-c/)
 [![Outlook](https://img.shields.io/badge/-Courriel-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:emilie.hongjun.chen@gmail.com)](mailto:emilie.hongjun.chen@gmail.com)
